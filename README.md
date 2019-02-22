@@ -1,0 +1,1 @@
+# manacher-palindrom
